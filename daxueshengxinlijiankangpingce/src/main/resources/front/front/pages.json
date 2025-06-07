@@ -1,0 +1,423 @@
+{
+	"pages": [{
+		"path": "pages/login/login",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "登录"
+		}
+	},{
+		"path": "pages/register/register",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "注册"
+		}
+	},{
+		"path": "pages/forget/forget",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "忘记密码"
+		}
+		},
+		{
+		"path": "pages/changepassword/changepassword",
+		"style": {
+		"navigationBarBackgroundColor": "#EF96C5",
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "修改密码"
+			}
+		},
+		{
+		"path": "pages/center/center",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的"
+		}
+	},{
+		"path": "pages/user-info/userinfo",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户信息"
+		}
+	}
+
+	,{
+		"path": "pages/exampapertopic/list",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "试卷选题展示"
+		}
+	},{
+		"path": "pages/exampapertopic/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的试卷选题"
+		}
+	},{
+		"path": "pages/exampapertopic/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "试卷选题添加/修改"
+		}
+	},{
+		"path": "pages/exampapertopic/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "试卷选题详情"
+		}
+	}
+       ,{
+		"path": "pages/forum/forum-index",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "全部发帖"
+		}
+	},{
+		"path": "pages/forum/forum-detail",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "发帖详情"
+		}
+	},{
+		"path": "pages/forum/forum-my",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的发帖"
+		}
+	},{
+		"path": "pages/forum/forum-add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "发贴(修改/新增)"
+		}
+	}
+	,{
+		"path": "pages/news/list",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "通知公告展示"
+		}
+	},{
+		"path": "pages/news/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的通知公告"
+		}
+	},{
+		"path": "pages/news/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "通知公告添加/修改"
+		}
+	},{
+		"path": "pages/news/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "通知公告详情"
+		}
+	}
+	,{
+		"path": "pages/xinlijiankang/list",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "心理健康展示"
+		}
+	},{
+		"path": "pages/xinlijiankang/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的心理健康"
+		}
+	},{
+		"path": "pages/xinlijiankang/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "心理健康添加/修改"
+		}
+	},{
+		"path": "pages/xinlijiankang/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "心理健康详情"
+		}
+	}
+	,{
+		"path": "pages/xinlijiankangCollection/list",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "心理健康收藏展示"
+		}
+	},{
+		"path": "pages/xinlijiankangCollection/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的心理健康收藏"
+		}
+	},{
+		"path": "pages/xinlijiankangCollection/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "心理健康收藏添加/修改"
+		}
+	},{
+		"path": "pages/xinlijiankangCollection/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "心理健康收藏详情"
+		}
+	}
+	,{
+		"path": "pages/xinlijiankangLiuyan/list",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "心理健康留言展示"
+		}
+	},{
+		"path": "pages/xinlijiankangLiuyan/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的心理健康留言"
+		}
+	},{
+		"path": "pages/xinlijiankangLiuyan/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "心理健康留言添加/修改"
+		}
+	},{
+		"path": "pages/xinlijiankangLiuyan/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "心理健康留言详情"
+		}
+	}
+	,{
+		"path": "pages/yonghu/list",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户展示"
+		}
+	},{
+		"path": "pages/yonghu/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的用户"
+		}
+	},{
+		"path": "pages/yonghu/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户添加/修改"
+		}
+	},{
+		"path": "pages/yonghu/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户详情"
+		}
+	}
+	,{
+		"path": "pages/zhixunshi/list",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "咨询师展示"
+		}
+	},{
+		"path": "pages/zhixunshi/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的咨询师"
+		}
+	},{
+		"path": "pages/zhixunshi/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "咨询师添加/修改"
+		}
+	},{
+		"path": "pages/zhixunshi/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "咨询师详情"
+		}
+	}
+	,{
+		"path": "pages/zhixunshiChat/list",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "心理咨询展示"
+		}
+	},{
+		"path": "pages/zhixunshiChat/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的心理咨询"
+		}
+	},{
+		"path": "pages/zhixunshiChat/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "心理咨询添加/修改"
+		}
+	},{
+		"path": "pages/zhixunshiChat/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "心理咨询详情"
+		}
+	}
+	,{
+		"path": "pages/zhixunshiYuyue/list",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "咨询师预约展示"
+		}
+	},{
+		"path": "pages/zhixunshiYuyue/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的咨询师预约"
+		}
+	},{
+		"path": "pages/zhixunshiYuyue/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "咨询师预约添加/修改"
+		}
+	},{
+		"path": "pages/zhixunshiYuyue/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "咨询师预约详情"
+		}
+	}
+	,{
+		"path": "pages/exampaper/list",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "试卷列表"
+		}
+	},{
+		"path": "pages/exampaper/exam",
+		"style": {
+			"navigationStyle": "custom"
+		}
+	},{
+		"path": "pages/examrecord/list",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "评测记录"
+		}
+	},{
+		"path": "pages/examrecord/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "评测记录"
+		}
+	}
+			,{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "大学生心理健康测评管理系统首页"
+		}
+	}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "大学生心理健康测评管理系统",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#FFFFFF",
+		"selectedColor": "#fff",
+		"borderStyle": "black",
+		"backgroundColor": "#95d3d9",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabs/index.png",
+				"selectedIconPath": "static/tabs/index1.png",
+				"text": "首页"
+			}
+			,{
+				"pagePath": "pages/exampaper/list",
+				"iconPath": "static/tabs/type.png",
+				"selectedIconPath": "static/tabs/type1.png",
+				"text": "在线评测表"
+			}
+			,{
+				"pagePath": "pages/xinlijiankang/list",
+				"iconPath": "static/tabs/type.png",
+				"selectedIconPath": "static/tabs/type1.png",
+				"text": "心理健康"
+			}
+			,{
+			 	"pagePath": "pages/forum/forum-index",
+				"iconPath": "static/tabs/order.png",
+			 	"selectedIconPath": "static/tabs/order1.png",
+				"text": "论坛"
+			}
+			,{
+				"pagePath": "pages/center/center",
+				"iconPath": "static/tabs/mine.png",
+				"selectedIconPath": "static/tabs/mine1.png",
+				"text": "我的"
+			}
+		]
+	}
+	// "permission": {
+	// 	"scope.userLocation": {
+	// 		"desc": ""
+	// 	}
+	// },
+	// "requiredPrivateInfos": ["getLocation", "chooseLocation"]
+}
